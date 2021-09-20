@@ -1,2 +1,2 @@
 # coingeckodata
-Getting Coingecko crypto data without API.
+Getting Coingecko historical crypto data without API.
